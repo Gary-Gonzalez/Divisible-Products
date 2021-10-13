@@ -1,4 +1,3 @@
-#Gary Gonzalez, HW4 Working with Python Functions, Due October 12
 #A function called prodDigits that takes an integer parameter and returns the product of the digits in the integer    
 def prodDigits(n):
 
